@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\bin\Release\netcoreapp3.1\FigurasGeometricas.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\bin\Release\netcoreapp3.1\FigurasGeometricas.deps.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\bin\Release\netcoreapp3.1\FigurasGeometricas.runtimeconfig.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\bin\Release\netcoreapp3.1\FigurasGeometricas.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\bin\Release\netcoreapp3.1\FigurasGeometricas.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\bin\Release\netcoreapp3.1\FigurasGeometricas.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\obj\Release\netcoreapp3.1\FigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\obj\Release\netcoreapp3.1\FigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\obj\Release\netcoreapp3.1\FigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\obj\Release\netcoreapp3.1\FigurasGeometricas.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\obj\Release\netcoreapp3.1\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\obj\Release\netcoreapp3.1\FigurasGeometricas.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\obj\Release\netcoreapp3.1\FigurasGeometricas.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\FigurasGeometricas\FigurasGeometricas\obj\Release\netcoreapp3.1\FigurasGeometricas.genruntimeconfig.cache

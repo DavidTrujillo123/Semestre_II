@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\bin\Debug\Primera_APP.exe.config
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\bin\Debug\Primera_APP.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\bin\Debug\Primera_APP.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\obj\Debug\Primera_APP.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\obj\Debug\Primera_APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\obj\Debug\Primera_APP.Form1.resources
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\obj\Debug\Primera_APP.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\obj\Debug\Primera_APP.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\obj\Debug\Primera_APP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\obj\Debug\Primera_APP.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\Primera_APP\Primera_APP\obj\Debug\Primera_APP.pdb

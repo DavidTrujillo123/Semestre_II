@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.exe
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.deps.json
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.runtimeconfig.json
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.dll
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\bin\Debug\netcoreapp3.1\ArrayLists.pdb
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.dll
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.pdb
+C:\Users\Asus\OneDrive\Escritorio\ArrayLists\ArrayLists\obj\Debug\netcoreapp3.1\ArrayLists.genruntimeconfig.cache

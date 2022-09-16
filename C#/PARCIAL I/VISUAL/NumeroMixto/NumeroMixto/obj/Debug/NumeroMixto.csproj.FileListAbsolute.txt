@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\bin\Debug\NumeroMixto.exe.config
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\bin\Debug\NumeroMixto.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\bin\Debug\NumeroMixto.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\obj\Debug\NumeroMixto.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\obj\Debug\NumeroMixto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\obj\Debug\NumeroMixto.Form1.resources
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\obj\Debug\NumeroMixto.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\obj\Debug\NumeroMixto.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\obj\Debug\NumeroMixto.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\obj\Debug\NumeroMixto.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\NumeroMixto\NumeroMixto\obj\Debug\NumeroMixto.pdb

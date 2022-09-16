@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Excepciones\POO-Excepciones\bin\Debug\POO-Excepciones.exe.config
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Excepciones\POO-Excepciones\bin\Debug\POO-Excepciones.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Excepciones\POO-Excepciones\bin\Debug\POO-Excepciones.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Excepciones\POO-Excepciones\obj\Debug\POO-Excepciones.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Excepciones\POO-Excepciones\obj\Debug\POO-Excepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Excepciones\POO-Excepciones\obj\Debug\POO-Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Excepciones\POO-Excepciones\obj\Debug\POO-Excepciones.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Excepciones\POO-Excepciones\obj\Debug\POO-Excepciones.pdb

@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-ClasesAbstractas\POO-ClasesAbstractas\bin\Debug\POO-ClasesAbstractas.exe.config
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-ClasesAbstractas\POO-ClasesAbstractas\bin\Debug\POO-ClasesAbstractas.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-ClasesAbstractas\POO-ClasesAbstractas\bin\Debug\POO-ClasesAbstractas.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-ClasesAbstractas\POO-ClasesAbstractas\obj\Debug\POO-ClasesAbstractas.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-ClasesAbstractas\POO-ClasesAbstractas\obj\Debug\POO-ClasesAbstractas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-ClasesAbstractas\POO-ClasesAbstractas\obj\Debug\POO-ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-ClasesAbstractas\POO-ClasesAbstractas\obj\Debug\POO-ClasesAbstractas.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-ClasesAbstractas\POO-ClasesAbstractas\obj\Debug\POO-ClasesAbstractas.pdb

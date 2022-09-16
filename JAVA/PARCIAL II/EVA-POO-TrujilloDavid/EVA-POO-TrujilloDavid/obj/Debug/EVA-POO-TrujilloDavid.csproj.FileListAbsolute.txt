@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Escritorio\EVA-POO-TrujilloDavid\EVA-POO-TrujilloDavid\bin\Debug\EVA-POO-TrujilloDavid.exe.config
+C:\Users\Asus\OneDrive\Escritorio\EVA-POO-TrujilloDavid\EVA-POO-TrujilloDavid\bin\Debug\EVA-POO-TrujilloDavid.exe
+C:\Users\Asus\OneDrive\Escritorio\EVA-POO-TrujilloDavid\EVA-POO-TrujilloDavid\bin\Debug\EVA-POO-TrujilloDavid.pdb
+C:\Users\Asus\OneDrive\Escritorio\EVA-POO-TrujilloDavid\EVA-POO-TrujilloDavid\obj\Debug\EVA-POO-TrujilloDavid.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\EVA-POO-TrujilloDavid\EVA-POO-TrujilloDavid\obj\Debug\EVA-POO-TrujilloDavid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\EVA-POO-TrujilloDavid\EVA-POO-TrujilloDavid\obj\Debug\EVA-POO-TrujilloDavid.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\EVA-POO-TrujilloDavid\EVA-POO-TrujilloDavid\obj\Debug\EVA-POO-TrujilloDavid.exe
+C:\Users\Asus\OneDrive\Escritorio\EVA-POO-TrujilloDavid\EVA-POO-TrujilloDavid\obj\Debug\EVA-POO-TrujilloDavid.pdb

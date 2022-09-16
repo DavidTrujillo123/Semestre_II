@@ -1,0 +1,8 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Herencia\POO-Herencia\bin\Debug\POO-Herencia.exe.config
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Herencia\POO-Herencia\bin\Debug\POO-Herencia.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Herencia\POO-Herencia\bin\Debug\POO-Herencia.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Herencia\POO-Herencia\obj\Debug\POO-Herencia.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Herencia\POO-Herencia\obj\Debug\POO-Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Herencia\POO-Herencia\obj\Debug\POO-Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Herencia\POO-Herencia\obj\Debug\POO-Herencia.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-Herencia\POO-Herencia\obj\Debug\POO-Herencia.pdb

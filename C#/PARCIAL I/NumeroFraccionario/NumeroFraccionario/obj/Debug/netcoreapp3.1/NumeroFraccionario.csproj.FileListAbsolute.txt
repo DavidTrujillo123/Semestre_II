@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\bin\Debug\netcoreapp3.1\NumeroFraccionario.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\bin\Debug\netcoreapp3.1\NumeroFraccionario.deps.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\bin\Debug\netcoreapp3.1\NumeroFraccionario.runtimeconfig.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\bin\Debug\netcoreapp3.1\NumeroFraccionario.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\bin\Debug\netcoreapp3.1\NumeroFraccionario.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\bin\Debug\netcoreapp3.1\NumeroFraccionario.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\obj\Debug\netcoreapp3.1\NumeroFraccionario.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\obj\Debug\netcoreapp3.1\NumeroFraccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\obj\Debug\netcoreapp3.1\NumeroFraccionario.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\obj\Debug\netcoreapp3.1\NumeroFraccionario.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\obj\Debug\netcoreapp3.1\NumeroFraccionario.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\obj\Debug\netcoreapp3.1\NumeroFraccionario.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\obj\Debug\netcoreapp3.1\NumeroFraccionario.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\NumeroFraccionario\NumeroFraccionario\obj\Debug\netcoreapp3.1\NumeroFraccionario.genruntimeconfig.cache

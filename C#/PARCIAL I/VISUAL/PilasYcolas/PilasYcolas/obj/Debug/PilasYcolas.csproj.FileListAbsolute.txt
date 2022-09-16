@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\bin\Debug\PilasYcolas.exe.config
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\bin\Debug\PilasYcolas.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\bin\Debug\PilasYcolas.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\obj\Debug\PilasYcolas.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\obj\Debug\PilasYcolas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\obj\Debug\PilasYcolas.Form1.resources
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\obj\Debug\PilasYcolas.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\obj\Debug\PilasYcolas.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\obj\Debug\PilasYcolas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\obj\Debug\PilasYcolas.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\VISUAL\PilasYcolas\PilasYcolas\obj\Debug\PilasYcolas.pdb

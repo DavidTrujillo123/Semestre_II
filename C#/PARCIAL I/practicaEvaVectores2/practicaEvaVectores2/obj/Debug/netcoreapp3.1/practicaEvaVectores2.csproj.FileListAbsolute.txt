@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\bin\Debug\netcoreapp3.1\practicaEvaVectores2.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\bin\Debug\netcoreapp3.1\practicaEvaVectores2.deps.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\bin\Debug\netcoreapp3.1\practicaEvaVectores2.runtimeconfig.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\bin\Debug\netcoreapp3.1\practicaEvaVectores2.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\bin\Debug\netcoreapp3.1\practicaEvaVectores2.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\bin\Debug\netcoreapp3.1\practicaEvaVectores2.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\obj\Debug\netcoreapp3.1\practicaEvaVectores2.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\obj\Debug\netcoreapp3.1\practicaEvaVectores2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\obj\Debug\netcoreapp3.1\practicaEvaVectores2.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\obj\Debug\netcoreapp3.1\practicaEvaVectores2.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\obj\Debug\netcoreapp3.1\practicaEvaVectores2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\obj\Debug\netcoreapp3.1\practicaEvaVectores2.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\obj\Debug\netcoreapp3.1\practicaEvaVectores2.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practicaEvaVectores2\practicaEvaVectores2\obj\Debug\netcoreapp3.1\practicaEvaVectores2.genruntimeconfig.cache

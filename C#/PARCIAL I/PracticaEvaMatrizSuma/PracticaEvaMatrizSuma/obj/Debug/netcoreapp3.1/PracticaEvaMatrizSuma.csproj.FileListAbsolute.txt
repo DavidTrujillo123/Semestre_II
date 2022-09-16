@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\bin\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\bin\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.deps.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\bin\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.runtimeconfig.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\bin\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\bin\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\bin\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\obj\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\obj\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\obj\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\obj\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\obj\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\obj\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\obj\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\PracticaEvaMatrizSuma\PracticaEvaMatrizSuma\obj\Debug\netcoreapp3.1\PracticaEvaMatrizSuma.genruntimeconfig.cache

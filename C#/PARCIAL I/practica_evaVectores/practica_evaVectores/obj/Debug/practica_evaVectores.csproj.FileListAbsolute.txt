@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\bin\Debug\practica_evaVectores.exe.config
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\bin\Debug\practica_evaVectores.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\bin\Debug\practica_evaVectores.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\obj\Debug\practica_evaVectores.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\obj\Debug\practica_evaVectores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\obj\Debug\practica_evaVectores.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\obj\Debug\practica_evaVectores.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\obj\Debug\practica_evaVectores.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\obj\Debug\practica_evaVectores.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\obj\Debug\practica_evaVectores.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\practica_evaVectores\practica_evaVectores\obj\Debug\practica_evaVectores.Form1.resources

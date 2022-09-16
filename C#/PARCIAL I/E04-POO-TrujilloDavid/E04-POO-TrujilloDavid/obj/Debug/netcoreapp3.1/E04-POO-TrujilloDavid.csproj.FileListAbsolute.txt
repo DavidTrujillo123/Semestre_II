@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\bin\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.exe
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\bin\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.deps.json
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\bin\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.runtimeconfig.json
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\bin\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\bin\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.dll
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\bin\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.pdb
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\obj\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\obj\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\obj\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\obj\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\obj\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\obj\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.dll
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\obj\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.pdb
+C:\Users\Asus\OneDrive\Escritorio\E04-POO-TrujilloDavid\E04-POO-TrujilloDavid\obj\Debug\netcoreapp3.1\E04-POO-TrujilloDavid.genruntimeconfig.cache

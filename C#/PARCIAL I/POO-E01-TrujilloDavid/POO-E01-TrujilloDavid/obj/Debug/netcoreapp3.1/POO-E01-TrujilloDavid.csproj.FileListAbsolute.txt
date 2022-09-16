@@ -1,0 +1,28 @@
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.exe
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.deps.json
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.runtimeconfig.json
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.dll
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.pdb
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.dll
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.pdb
+C:\Users\Asus\OneDrive\Escritorio\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.deps.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.runtimeconfig.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\bin\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.dll
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\POO-E01-TrujilloDavid\POO-E01-TrujilloDavid\obj\Debug\netcoreapp3.1\POO-E01-TrujilloDavid.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\bin\Debug\CuadradoMagico.exe.config
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\bin\Debug\CuadradoMagico.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\bin\Debug\CuadradoMagico.pdb
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\obj\Debug\CuadradoMagico.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\obj\Debug\CuadradoMagico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\obj\Debug\CuadradoMagico.Form1.resources
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\obj\Debug\CuadradoMagico.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\obj\Debug\CuadradoMagico.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\obj\Debug\CuadradoMagico.exe
+C:\Users\Asus\OneDrive\Escritorio\U\SEMETRE II\POO\C#\ProyectosFinales\CuadradoMagico\CuadradoMagico\obj\Debug\CuadradoMagico.pdb
